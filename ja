@@ -1,0 +1,38 @@
+[33mcommit 88edec52d6402e85a6b5243d380a9d12aa1fffcd[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Swapnil Palande <dlamdade.dl@gmail.com>
+Date:   Wed Feb 22 14:50:34 2023 +0530
+
+    testing
+
+[1mdiff --git a/index.html b/index.html[m
+[1mnew file mode 100644[m
+[1mindex 0000000..30d2b01[m
+[1m--- /dev/null[m
+[1m+++ b/index.html[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32mjhfjdhjf[m
+[1mdiff --git a/scrip.js b/scrip.js[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m
+[1mdiff --git a/styles/styles.css b/styles/styles.css[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m
+[1mdiff --git a/styles/text1.txt b/styles/text1.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m
+[1mdiff --git a/test3.txt b/test3.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m
+[1mdiff --git a/test4.txt b/test4.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..802992c[m
+[1m--- /dev/null[m
+[1m+++ b/test4.txt[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32mHello world[m
+[1mdiff --git a/text1.txt b/text1.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m
+[1mdiff --git a/text2.txt b/text2.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m
